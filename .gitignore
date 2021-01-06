@@ -108,3 +108,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+bazel-out
+.gitignore
+bazel-testlogs
+.gitignore
